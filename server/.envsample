@@ -1,0 +1,10 @@
+PORT=5000
+MONGO_URI="mongodb://localhost:27017/DEALSDRY_DB"
+JWT_SECRET=""
+
+
+#cloudinary setup for profile image
+FOLDER_NAME = "ADITYA"
+CLOUD_NAME = 
+API_KEY = 
+API_SECRET = 
